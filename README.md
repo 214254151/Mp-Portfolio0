@@ -1,3 +1,3 @@
 # Mp-Portfolio0
 
-## This my my react fumctional and latest portfolio app
+## This my my react functional and latest portfolio app
